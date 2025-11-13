@@ -41,7 +41,7 @@ Total Host: 778 host
 
 ## Topologi VLSM
 
-<img width="1177" height="697" alt="image" src="https://github.com/user-attachments/assets/cef1ddaf-1d03-41dd-9ef9-7642386958a8" />
+<img width="1243" height="720" alt="Screenshot 2025-11-13 135757" src="https://github.com/user-attachments/assets/dd6fdd1a-2267-42c5-ae6a-65e51f541120" />
 
 
 ## Pohon VLSM
@@ -108,7 +108,7 @@ Sekretariat      Server & Admin
 
 ## Topologi CIDR
 
-<img width="1243" height="720" alt="image" src="https://github.com/user-attachments/assets/b930bf2a-3b48-40b8-8bf5-9dfb193f43f7" />
+<img width="1177" height="697" alt="Screenshot 2025-11-13 135908" src="https://github.com/user-attachments/assets/8999a7be-ced7-40d2-85a0-0f46732dfa84" />
 
 
 ## Pohon CIDR
